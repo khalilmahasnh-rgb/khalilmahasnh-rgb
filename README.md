@@ -1,76 +1,94 @@
 
-# 👋 Hello World! I'm Khalil Mahasneh  
+<h1 align="center">👋 Hello World! I'm Khalil Mahasneh</h1>
 
-🎓 Software Engineering Student  
-🏫 Arab Open University – Amman  
-🇯🇴 Based in Jordan  
-📚 Learning programming through Mohammad Abu Hadhoud's roadmap  
-🚀 Future Full-Stack Developer  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&height=50&duration=4000&lines=Software+Engineering+Student;Future+Full-Stack+Developer;Always+Learning+🚀">
+</p>
 
----
+<hr>
 
-## 👨‍💻 About Me  
+<h2>👨‍💻 About Me</h2>
 
-I’m passionate about problem solving and building real-world applications.  
-I believe consistency beats motivation.  
+<ul>
+  <li>🎓 Software Engineering Student at <strong>:contentReference[oaicite:0]{index=0}</strong></li>
+  <li>📚 Learning programming through the roadmap of <strong>:contentReference[oaicite:1]{index=1}</strong></li>
+  <li>🇯🇴 Based in Jordan</li>
+  <li>💡 Passionate about problem solving and building real-world applications</li>
+  <li>🚀 Future Full-Stack Developer</li>
+</ul>
 
-Every day I write code — even small progress counts ✨  
+<p><em>I believe consistency beats motivation.<br>
+Every day I write code — even small progress counts ✨</em></p>
 
----
+<hr>
 
-## 🛠 Tech Stack  
+<h2>🛠 Tech Stack</h2>
 
-### 💻 Programming Languages  
-- C++  
-- Java  
-- Python  
-- JavaScript  
+<h3>💻 Programming Languages</h3>
+<ul>
+  <li>C++</li>
+  <li>Java</li>
+  <li>Python</li>
+  <li>JavaScript</li>
+</ul>
 
-### 🌐 Web Development  
-- HTML5  
-- CSS3  
-- JavaScript  
-- React (Learning)  
+<h3>🌐 Web Development</h3>
+<ul>
+  <li>HTML5</li>
+  <li>CSS3</li>
+  <li>JavaScript</li>
+  <li>React (Learning)</li>
+</ul>
 
-### 🗄 Databases  
-- MySQL  
-- MongoDB (Basics)  
+<h3>🗄 Databases</h3>
+<ul>
+  <li>MySQL</li>
+  <li>MongoDB (Basics)</li>
+</ul>
 
-### ⚙ Tools  
-- Git & GitHub  
-- VS Code  
-- Postman  
+<h3>⚙ Tools</h3>
+<ul>
+  <li>Git & GitHub</li>
+  <li>VS Code</li>
+  <li>Postman</li>
+</ul>
 
----
+<hr>
 
-## 🌱 Currently Learning  
+<h2>🌱 Currently Learning</h2>
 
-- Data Structures & Algorithms  
-- Object-Oriented Programming  
-- React  
-- Backend Development (Node.js soon 👀)  
+<ul>
+  <li>Data Structures & Algorithms</li>
+  <li>Object-Oriented Programming</li>
+  <li>React</li>
+  <li>Backend Development (Node.js soon 👀)</li>
+</ul>
 
----
+<hr>
 
-## 📊 GitHub Stats  
+<h2>📊 GitHub Stats</h2>
 
-![Khalil's GitHub stats](https://github-readme-stats.vercel.app/api?username=khalilmahasnh-rgb&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=khalilmahasnh-rgb&show_icons=true&theme=tokyonight&hide_border=true">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalilmahasnh-rgb&layout=compact&theme=tokyonight&hide_border=true">
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khalilmahasnh-rgb&layout=compact&theme=tokyonight)
+<hr>
 
----
+<h2>🤝 Let's Connect</h2>
 
-## 🤝 Let's Connect  
+<p>
+  📧 Email: your-email-here <br>
+  📸 Instagram: <a href="https://www.instagram.com/khlil3752/">khlil3752</a> <br>
+  🇯🇴 Location: Jordan
+</p>
 
-- 📸 Instagram: https://www.instagram.com/khlil3752/  
-- 📧 Email: your-email-here  
+<hr>
 
----
+<h2>✨ Personal Motto</h2>
 
-## ✨ Personal Motto  
+<blockquote>
+Small progress every day adds up to big results.
+</blockquote>
 
-> "Small progress every day adds up to big results."
-
----
-
-🚀 This is just the beginning of my journey — bigger projects are coming soon.
+<p align="center">🚀 This is just the beginning of my journey — bigger projects are coming soon.</p>
